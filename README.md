@@ -19,8 +19,6 @@
     > Uso React Router Dom para la navegación
     > Use SweetAlert para las alertas.
 
-## Aplicación en funcionamiento
-![Babies](Babies.gif)
 
 ### Autor
 
